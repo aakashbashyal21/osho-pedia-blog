@@ -1,0 +1,16 @@
+{
+  "mainMenu": [
+    {
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "name": "Library",
+      "link": "/library"
+    },
+    {
+      "name": "Contact",
+      "link": "/contact"
+    }
+  ]
+}

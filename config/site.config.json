@@ -1,0 +1,17 @@
+{
+  "metaData": {
+    "title": "Osho Pedia",
+    "description": "Osho pedia is the complete encyclopedia of Osho, we bring anecdotes from the osho discourse, and we also present what osho talks about on different subjects and about famous people.",
+    "author": "Osho Pedia",
+    "keyword": "meditation, osho, bhagwan, rajneesh, god, om, knowledge",
+    "ogImage": "https://qurno-nextjs.vercel.app/images/ogimage.jpg"
+  },
+  "baseURL": "https://qurno-nextjs.vercel.app/",
+  "logo": "/images/logo.png",
+  "logo_light": "/images/logo.png",
+  "logoText": "Osho Pedia",
+  "favicon": "/images/favicon.png",
+  "postPerPage": 6,
+  "postColumns": 1,
+  "copyright": "© 2023 Osho Pedia. All rights reserved."
+}
